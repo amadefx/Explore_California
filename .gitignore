@@ -1,5 +1,6 @@
 # comment *tempfile.txt
 tempfile.txt
+tempfile2.txt
 .ds_store
 *.zip
 *.gz
